@@ -1,10 +1,10 @@
 # Pixel
 Pixel is a Mini Game writen in C between 2010 and 2011, during my studies. 
-There is a .exe if you want to try it. 
+There is a Pixel2.0.exe if you want to try it. 
+Translation from FR to EN soon.
 
 Specs
 -----
-In French -
 Snake like game -
 Multiple Levels - 
 Custom Cursor, difficulty - 
