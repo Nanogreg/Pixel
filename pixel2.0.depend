@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1269040010 source:c:\users\gregory\desktop\pixel2.0\main.c
+	<stdio.h>
+	<windows.h>
+	<myconio.h>
+	<ctype.h>
+	<time.h>
+
+1269023496 source:c:\users\gregory\desktop\pixel2.0\icone.rc
+
+1269023496 source:c:\users\gregory\desktop\isat\codeblocks\myself\pixel2.0\icone.rc
+
+1269655096 source:c:\users\gregory\desktop\isat\codeblocks\myself\pixel2.0\main.c
+	<stdio.h>
+	<windows.h>
+	<myconio.h>
+	<ctype.h>
+	<time.h>
+	<fmod.h>
+
+1269027098 source:c:\users\greg\desktop\isat\codeblocks\myself\pixel2.0\icone.rc
+
+1275953177 source:c:\users\greg\desktop\isat\codeblocks\myself\pixel2.0\main.c
+	<stdio.h>
+	<windows.h>
+	<myconio.h>
+	<ctype.h>
+	<time.h>
+
+1269023498 source:c:\users\gcuyl\dropbox\isat greg\1ig\codeblocks\myself\pixel2.0\icone.rc
+
