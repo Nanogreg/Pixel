@@ -4,12 +4,12 @@ There is a .exe if you want to try it.
 
 Specs
 -----
-In French
-Snake like game
-Multiple Levels
-Custom Cursor, difficulty
-Score saving ( txt and game file )
-Score Board
+In French -
+Snake like game -
+Multiple Levels - 
+Custom Cursor, difficulty - 
+Score saving ( txt and game file ) - 
+Score Board - 
 Hidden Level
 
 Config
