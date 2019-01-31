@@ -16,4 +16,4 @@ Config
 ------
 Myconio.h are custom conio.h files. They need to be included for the build to work. 
 
-Modern Windows Console do not diplay the game properly, try using older version in setting and also resize the window for a better game experience. 
+Modern Windows Console do not diplay the game properly, try using older version in console settings and also resize the window for a better game experience. 
