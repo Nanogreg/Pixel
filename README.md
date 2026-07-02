@@ -1,19 +1,22 @@
 # Pixel
-Pixel is a Mini Game writen in C between 2010 and 2011, during my studies. 
-There is a Pixel2.0.exe if you want to try it. 
-Translation from FR to EN soon.
 
-Specs
------
-Snake like game -
-Multiple Levels - 
-Custom Cursor, difficulty - 
-Score saving ( txt and game file ) - 
-Score Board - 
-Hidden Level
+`Pixel` is a retro mini-game written in **C** between 2010 and 2011 during my studies. 
 
-Config
-------
-Myconio.h are custom conio.h files. They need to be included for the build to work. 
+> 🎮 **Try it out:** You can execute `Pixel2.0.exe` to play the game directly.
 
-Modern Windows Console do not diplay the game properly, try using older version in console settings and also resize the window for a better game experience. 
+## ✨ Features & Specs
+
+* **Gameplay:** Snake-like game mechanics.
+* **Levels:** Multiple levels, including a **Hidden Level** 🤫.
+* **Customization:** Custom cursor and adjustable difficulty.
+* **Scores:** Scoreboard functionality with saving options (outputs to both `.txt` and game files).
+
+## 🛠️ Configuration & Build
+
+* **Dependencies:** The project uses `Myconio.h`, which are custom `conio.h` files. These **must** be included in your project environment for the build to work properly.
+
+## 🖥️ Compatibility Notice
+
+Modern Windows Consoles (like Windows Terminal) may not display the game correctly. For the best experience:
+1. Open the console settings and switch to a **legacy/older version** of the Windows Console.
+2. Manually **resize the console window** until the game graphics align correctly.
